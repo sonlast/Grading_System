@@ -1,0 +1,11 @@
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\bin\Debug\GUI_GradingSystem.exe.config
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\bin\Debug\GUI_GradingSystem.exe
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\bin\Debug\GUI_GradingSystem.pdb
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.csproj.AssemblyReference.cache
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.Form1.resources
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.Properties.Resources.resources
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.csproj.GenerateResource.cache
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.exe
+C:\Users\MyLaptop\source\repos\GUI_GradingSystem\GUI_GradingSystem\obj\Debug\GUI_GradingSystem.pdb
